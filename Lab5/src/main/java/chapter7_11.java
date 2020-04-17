@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class newArraymath {
+public class chapter7_11 {
 
     public static void main(String[] args) {
         double test = 0.0;
