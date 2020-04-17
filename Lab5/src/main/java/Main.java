@@ -24,7 +24,6 @@ public class Main {
             if (test < (Integer) array1.get(n)) {
                 array2.add((Integer) array1.get(n));
             }
-
         }
 
         return array2;
